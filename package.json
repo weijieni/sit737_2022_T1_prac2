@@ -1,0 +1,34 @@
+{
+    
+    "name": "web-server",
+    
+    "version": "0.1.0",
+    
+    "description": "Web server for SIT 737",
+    
+    "dependencies": {
+    
+        
+    "body-parser": "*",
+    
+        
+    "express": "*",
+    
+        
+    "log": "1.4.0",
+    
+        
+    "morgan": "^1.10.0",
+    
+        
+    "winston": "^3.6.0",
+
+    
+    "winston-daily-rotate-file": "^3.5.1"
+    
+    },
+    
+    "author": "Alessio Bonti",
+    
+    "license": "MIT"
+}
